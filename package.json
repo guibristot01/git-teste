@@ -4,7 +4,9 @@
   "description": "hello",
   "main": "index.js",
   "scripts": {
-    "test": "hello"
+    "start": "npm run lite",
+    "test": "hello",
+    "lite": "lite-server"
   },
   "repository": {
     "type": "git",
@@ -18,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/guibristot01/git-teste/issues"
   },
-  "homepage": "https://github.com/guibristot01/git-teste#readme"
+  "homepage": "https://github.com/guibristot01/git-teste#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
 }
