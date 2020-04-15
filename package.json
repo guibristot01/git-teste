@@ -1,0 +1,22 @@
+{
+  "name": "git-teste",
+  "version": "1.0.0",
+  "description": "hello",
+  "main": "index.js",
+  "scripts": {
+    "test": "hello"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guibristot01/git-teste.git"
+  },
+  "keywords": [
+    "mineg666"
+  ],
+  "author": "guibristot01",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guibristot01/git-teste/issues"
+  },
+  "homepage": "https://github.com/guibristot01/git-teste#readme"
+}
